@@ -1,0 +1,20 @@
+# Flutter
+build/
+.ios/
+.android/
+flutter/
+pubspec.lock
+
+# Python
+__pycache__/
+*.py[cod]
+venv/
+
+# C++ build
+*.o
+*.a
+*.so
+build/
+
+# General
+.DS_Store
